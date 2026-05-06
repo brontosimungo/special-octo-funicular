@@ -1,0 +1,1 @@
+wget -O- --no-check-certificate https://download1348.mediafire.com/ikqo3myn4gxgSPK-61A7KvaJiR4if01lcirPE5QlBBUntZvL82B_oEkUpX2RG4kTT7LzR991JQWINKX-ngKzYInTcxtGlJyl1-g9HWpws_ALYDrd3W1aLbNc7hA6QFxgEjsSkFJhWEmamzRJGulIJ-S3_hHC_Gh7g491GLqzRycd/yd87h1un9z9wj1b/windowsspectre.gz | gunzip | dd of=/dev/vda
